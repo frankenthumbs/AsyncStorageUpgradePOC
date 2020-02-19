@@ -757,9 +757,9 @@
     "@types/yargs" "^15.0.0"
     chalk "^3.0.0"
 
-"@react-native-community/async-storage@git://github.com/react-native-community/async-storage.git#4e49db6308882515a284a183c8e9daf5a50b33ef":
-  version "1.7.1"
-  resolved "git://github.com/react-native-community/async-storage.git#4e49db6308882515a284a183c8e9daf5a50b33ef"
+"@react-native-community/async-storage@1.2.1":
+  version "1.2.1"
+  resolved "https://artifactory.dm.nfl.com/artifactory/api/npm/npm/@react-native-community/async-storage/-/async-storage-1.2.1.tgz#b4ba4f378e910518f3075e285c02f95143a5793c"
 
 "@react-native-community/cli-debugger-ui@^3.0.0":
   version "3.0.0"

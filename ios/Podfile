@@ -35,8 +35,8 @@ target 'AsyncStorageUpgradePOC' do
   pod 'Folly', :podspec => '../node_modules/react-native/third-party-podspecs/Folly.podspec'
 
   # "@react-native-community/async-storage":"git://github.com/react-native-community/async-storage.git#4e49db6308882515a284a183c8e9daf5a50b33ef"
-  # pod 'react-native-async-storage', :path => '../node_modules/@react-native-community/async-storage'
-  pod 'RNCAsyncStorage', :path => '../node_modules/@react-native-community/async-storage'
+  # pod 'RNCAsyncStorage', :path => '../node_modules/@react-native-community/async-storage'
+  pod 'react-native-async-storage', :path => '../node_modules/@react-native-community/async-storage'
 
   target 'AsyncStorageUpgradePOCTests' do
     inherit! :search_paths
